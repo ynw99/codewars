@@ -1,5 +1,5 @@
 # Anagram Detection
-An anagram is the result of rearranging the letters of a word to produce a new word (see wikipedia).
+An anagram is the result of rearranging the letters of a word to produce a new word (see [wikipedia](https://en.wikipedia.org/wiki/Anagram)).
 
 Note: anagrams are case insensitive
 
